@@ -1,5 +1,5 @@
 # Отчёт о тестировании 
-#Credit Card Number Validator
+# Credit Card Number Validator
 
 ## Краткое описание
 
