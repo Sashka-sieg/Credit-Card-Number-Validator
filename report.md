@@ -1,15 +1,15 @@
 # Отчёт о тестировании 
-Credit Card Number Validator
+#Credit Card Number Validator
 
 ## Краткое описание
 
-03.10.2021 - 03.10.2021 было проведено негативное и позитивное тестирование тестирование приложения Стартап Credit Card Number Validator.
+03.10.2021 - 03.10.2021 было проведено негативное и позитивное тестирование тестирование приложения "Стартап Credit Card Number Validator".
 
 На тестирование затрачено: 1:40
 
 В результате тестирования выявлены следующие дефекты:
 
-* Дефекты отсутсвуют
+* [Ошибка валидации 14ти значных банковских карт банка Diners Club](https://github.com/Sashka-sieg/Credit-Card-Number-Validator/issues/1#issue-1015463433)
 
 ## Описание процесса тестирования
 
@@ -19,8 +19,8 @@ Credit Card Number Validator
 
 
 В качестве тестовых данных использовались данные :
-* https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+* [Задание №2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 Тестирование производилось в следующем окружении:
 * macOS 11.6 (20G165)
-* IntelliJ IDEA 2021.2.2 (Community Edition) Build #IC-212.5284.40, built on September 14, 2021 Runtime version: 11.0.12+7-b1504.28 aarch64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. macOS 11.6 GC: G1 Young Generation, G1 Old Generation Memory: 752M Cores: 8
+* IntelliJ IDEA 2021.2.2 (Community Edition) Build #IC-212.5284.40, built on September 14, 2021 Runtime version: 11.0.12+7-b1504.28 aarch64 VM: OpenJDK 64-Bit Server
