@@ -9,7 +9,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Ошибка валидации 14ти значных банковских карт банка Diners Club](https://github.com/Sashka-sieg/Credit-Card-Number-Validator/issues/1#issue-1015463433)
+* [Ошибка валидации 14ти и 19ти значных банковских карт](https://github.com/Sashka-sieg/Credit-Card-Number-Validator/issues/1#issue-1015463433)
 
 ## Описание процесса тестирования
 
